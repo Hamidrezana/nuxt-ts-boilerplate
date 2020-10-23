@@ -1,4 +1,8 @@
-# rxt-home-page
+# nuxt-ts-boilerplate
+
+## Description
+
+A boilerplate for nuxt with typescript template project
 
 ## Build Setup
 
